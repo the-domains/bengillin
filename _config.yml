@@ -1,0 +1,28 @@
+name: bengillin
+favicon: null
+layout_spectrum: 0.05264021665789187
+typography_spectrum: 0.6937453146092594
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7411209302954376
+  lightness: 0.6679485393688083
+  saturation: 0.4419667376205325
+  rhythmicContrast: 0.040298511972650886
+purpose: []
